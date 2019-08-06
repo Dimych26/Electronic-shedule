@@ -1,9 +1,10 @@
 # Electronic-shedule
 Electronic-shedule using ASP.NET WebAPI
 
-It consists of subsystems:
+Application consists of subsystems:
 1) Schedule creation subsystem (classrooms, groups, teachers, disciplines)
 2) Schedule output subsystem (classrooms, groups, teachers)
+
 User Roles: Administrator, Editor, Management, Teacher, Student.
 The editor can change the schedule information. 
 Management can view the entire schedule for each of the filters (audiences, groups, teachers, disciplines).
