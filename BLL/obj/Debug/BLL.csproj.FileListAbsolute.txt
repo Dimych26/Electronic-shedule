@@ -1,0 +1,17 @@
+D:\2 курс\Курсач\CourseWork\BLL\bin\Debug\BLL.dll
+D:\2 курс\Курсач\CourseWork\BLL\bin\Debug\BLL.pdb
+D:\2 курс\Курсач\CourseWork\BLL\bin\Debug\AutoMapper.dll
+D:\2 курс\Курсач\CourseWork\BLL\bin\Debug\DAL.dll
+D:\2 курс\Курсач\CourseWork\BLL\bin\Debug\Ninject.dll
+D:\2 курс\Курсач\CourseWork\BLL\bin\Debug\EntityFramework.dll
+D:\2 курс\Курсач\CourseWork\BLL\bin\Debug\DAL.pdb
+D:\2 курс\Курсач\CourseWork\BLL\bin\Debug\AutoMapper.pdb
+D:\2 курс\Курсач\CourseWork\BLL\bin\Debug\AutoMapper.xml
+D:\2 курс\Курсач\CourseWork\BLL\bin\Debug\Ninject.xml
+D:\2 курс\Курсач\CourseWork\BLL\bin\Debug\EntityFramework.xml
+D:\2 курс\Курсач\CourseWork\BLL\obj\Debug\BLL.dll
+D:\2 курс\Курсач\CourseWork\BLL\obj\Debug\BLL.pdb
+D:\2 курс\Курсач\CourseWork\BLL\bin\Debug\DAL.dll.config
+D:\2 курс\Курсач\CourseWork\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\2 курс\Курсач\CourseWork\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\2 курс\Курсач\CourseWork\BLL\obj\Debug\BLL.csproj.CopyComplete
