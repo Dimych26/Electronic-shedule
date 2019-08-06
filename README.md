@@ -16,3 +16,11 @@ Teachers can view their schedule and the schedule of any groups.
 The student can only view the group schedule.
 
 An unauthorized user should not have access to the schedule.
+
+Initially, application models were created at the DAL, then using the Code First method was created database, at the same level, repository patterns and unit of work were implemented.
+
+BLL implements all application functionality and uses  Ninject and AutoMapper
+
+PL have controllers, presentation models, uses Ninject, and filter to catch all exceptions
+
+Application has tests, what use NUnit
