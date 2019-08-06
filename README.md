@@ -6,8 +6,13 @@ Application consists of subsystems:
 2) Schedule output subsystem (classrooms, groups, teachers)
 
 User Roles: Administrator, Editor, Management, Teacher, Student.
+
 The editor can change the schedule information. 
+
 Management can view the entire schedule for each of the filters (audiences, groups, teachers, disciplines).
+
 Teachers can view their schedule and the schedule of any groups.
+
 The student can only view the group schedule.
+
 An unauthorized user should not have access to the schedule.
