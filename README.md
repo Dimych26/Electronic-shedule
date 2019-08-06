@@ -23,4 +23,4 @@ BLL implements all application functionality and uses  Ninject and AutoMapper
 
 PL have controllers, presentation models, uses Ninject, and filter to catch all exceptions
 
-Application has tests, what use NUnit
+Application has tests, what use NUnit and Moq
